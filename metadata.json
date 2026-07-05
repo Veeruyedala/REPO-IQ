@@ -1,0 +1,6 @@
+{
+  "name": "REPO IQ",
+  "description": "Perform a deep-dive architecture, code quality, security, and performance analysis of public GitHub repositories using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
